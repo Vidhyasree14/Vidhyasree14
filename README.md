@@ -1,187 +1,157 @@
-# https-github.com-Vidhyasree14
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vidhya%20Sree%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20AI%20%26%20Full%20Stack%20Enthusiast&descAlignY=62&descSize=16" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;AI+%2B+Full+Stack+Developer;Building+Real-Time+ML+%26+NLP+Systems;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:6a11cb,100:2575fc&height=220&section=header&text=Vidhyasree&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Computer+Vision+%2B+NLP+Builder+%F0%9F%94%8D;Turning+Coffee+%E2%98%95+into+Code" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Open%20to%20Work-00FFF2?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/-CS%20Student-B026FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/-Building%20Cool%20Stuff-0f2027?style=for-the-badge&logo=github&logoColor=00FFF2" />
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<br/>
 
-```java
-class VidhyaSreeM {
-    private String name = "Vidhya Sree M";
-    private String location = "Tiruchirappalli, Tamil Nadu, India";
-    private String degree = "B.E. Computer Science & Engineering (CGPA: 9.2/10)";
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
-    private String[] stack = {
-        "Java", "Python", "C", "HTML", "CSS", "JavaScript"
-    };
+## `🧬` About Me
 
-    private String[] currentlyLearning = {
-        "Advanced AI/ML", "NLP", "Cloud & DevOps"
-    };
-
-    private String funFact = "I hold a published patent on an AI-driven aquarium monitoring system!";
-
-    public String motto() {
-        return "Turning ideas into scalable, intelligent solutions.";
-    }
-}
+```yaml
+name: Vidhyasree
+role: AI/ML Engineer • Full-Stack Developer
+education: B.Tech, Computer Science
+focus_areas:
+  - Computer Vision & Deep Learning
+  - NLP & Semantic Search
+  - Full-Stack Web Development (Django, React)
+currently_building:
+  - "🦾 EdgeVision (Cerberus AI) — PPE compliance & work-at-height safety platform (Jetson Orin Nano)"
+  - "📊 Excel/CSV Analytics Platform — Django + React full-stack app"
+  - "🐠 AI-driven multi-modal aquarium monitoring & ecosystem health system"
+currently_learning: "Advanced RAG pipelines & edge AI deployment"
+fun_fact: "I debug faster with music on 🎧"
 ```
 
-<br clear="right"/>
+<br/>
 
-### 🛠️ Tech Stack
+## `⚡` Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages & Core**
 
-**Frameworks & Libraries**
+<img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=openjdk&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=postgresql&logoColor=B026FF"/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**AI / ML / Data**
 
-**Cloud & DevOps**
+<img src="https://img.shields.io/badge/OpenCV-0f2027?style=for-the-badge&logo=opencv&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/scikit--learn-0f2027?style=for-the-badge&logo=scikitlearn&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/spaCy-0f2027?style=for-the-badge&logo=spacy&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/FAISS-0f2027?style=for-the-badge&logo=meta&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/OpenAI-0f2027?style=for-the-badge&logo=openai&logoColor=00FFF2"/>
 
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+**Web & Full-Stack**
 
-**Databases & Search**
+<img src="https://img.shields.io/badge/Django-0f2027?style=for-the-badge&logo=django&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/React-0f2027?style=for-the-badge&logo=react&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/Vite-0f2027?style=for-the-badge&logo=vite&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0f2027?style=for-the-badge&logo=tailwindcss&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/REST_API-0f2027?style=for-the-badge&logo=fastapi&logoColor=00FFF2"/>
 
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+**Tools & Platforms**
 
-**Tools**
+<img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/Jetson_Orin_Nano-0f2027?style=for-the-badge&logo=nvidia&logoColor=00FFF2"/>
+<img src="https://img.shields.io/badge/Streamlit-0f2027?style=for-the-badge&logo=streamlit&logoColor=B026FF"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+</div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Vidhyasree14">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vidhyasree14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <a href="https://github.com/Vidhyasree14">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhyasree14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</div>
+## `🚀` Featured Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vidhyasree14&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhyasree14&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
+### 🦾 EdgeVision — Cerberus AI
+PPE Compliance & Work-at-Height Safety Platform. Real-time person/PPE detection, tracking, and a rule engine — deployed and tested on a Jetson Orin Nano edge device.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidhyasree14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
+`Computer Vision` `Edge AI` `Python`
 
----
+[🔗 View Repo](https://github.com/Vidhyasree14/Cerberus-AI)
 
-### 💼 Work Experience
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Full Stack Development Intern @ VDart</b> — Dec 2025 – Jan 2026</summary>
+### 📊 Excel/CSV Analytics Platform
+Full-stack analytics platform for spreadsheet data — Django + DRF backend, React + Vite + Tailwind frontend, built for real-time data insights.
+
+`Django` `React` `Full-Stack`
+
+[🔗 View Repo](https://github.com/Vidhyasree14/excel-analytics-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AI Document Q&A System
+Extracts and answers questions from documents using NLP and semantic search — NLTK, spaCy, OpenAI embeddings, FAISS, and PDFPlumber under the hood.
+
+`NLP` `Semantic Search` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐠 Aquarium Ecosystem Monitor
+AI-driven multi-modal system for advanced aquarium monitoring and ecosystem health management, built as a research prototype.
+
+`Computer Vision` `Research` `Python`
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-> `Excel Automation` `Data Validation` `Reporting & Visualization`
+## `📈` GitHub Stats
 
-- Developed an Excel Analyzer application that automated processing of **10,000+ records**, significantly cutting down manual analysis time.
-- Built data validation pipelines to ensure clean, reliable input data.
-- Added visualization features that improved reporting accuracy for stakeholders.
-- Collaborated within a full stack environment to deliver a production-ready internal tool.
+<div align="center">
 
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=Vidhyasree14&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=00FFF2&icon_color=B026FF&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhyasree14&theme=radical&hide_border=true&background=0f2027&stroke=00FFF2&ring=B026FF&fire=B026FF&currStreakLabel=00FFF2" width="49%" />
 
-<details>
-<summary><b>Java Application Developer @ Navodita</b> — Jun 2025 – Jul 2025</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhyasree14&layout=compact&theme=radical&hide_border=true&bg_color=0f2027&title_color=00FFF2&text_color=c9d1d9" width="60%"/>
+
+</div>
+
 <br/>
 
-> `Java` `OOPs` `Application Development` `Debugging`
-
-- Developed an online quiz platform in Java, applying core OOPs principles.
-- Implemented key application functionalities from the ground up.
-- Tested and debugged the platform, improving overall performance and stability.
-
-</details>
-
----
-
-### 🚀 Featured Projects
+## `🤝` Connect With Me
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Smart Email Classifier for Enterprises](https://github.com/Vidhyasree14)** | Python, TensorFlow, scikit-learn, Kafka, Spark, AWS Lambda | Real-time AI system for **fraud detection**; live data processing pipeline with ML models delivering **instant fraud alerts** |
-| **[Intelligent Code Review & Bug Detection Platform](https://github.com/Vidhyasree14)** | Python, AST, Pylint, SonarQube, OpenAI Codex | Automated code review & bug detection combining static analysis with AI-generated fix suggestions to boost reliability |
-| **[AI Document Q/A System](https://github.com/Vidhyasree14)** | Python, NLTK, spaCy, OpenAI Embeddings, FAISS, PDFPlumber | NLP + semantic search system that extracts and answers questions directly from documents with high retrieval accuracy |
+<a href="https://github.com/Vidhyasree14"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00FFF2"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=B026FF"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00FFF2"/></a>
 
 </div>
 
----
+<br/>
 
-### 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0f2027&height=120&section=footer"/>
 
 <div align="center">
-
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 📜 | Published Patent | *AI-Driven Multi-Modal System for Advanced Aquarium Monitoring and Ecosystem Health Management* |
-| ☕ | NPTEL Certification | Programming in Java — **Elite + Gold** |
-| 💻 | NPTEL Certification | Problem Solving Through Programming in C |
-| 🤖 | Infosys Springboard | Artificial Intelligence, Data Science & NLP |
-| 🐍 | MassInfo Certification | Foundation of Python |
-| 👩‍💻 | TechDivathon | Women's 24-Hour Hackathon (in collaboration with Hexaware) |
-| ⚡ | Cryptera | Technical Event Participant |
-
+<i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i>
 </div>
-
----
-
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.E. Computer Science & Engineering | V.S.B. College of Engineering Technical Campus, Coimbatore | Sept 2023 – May 2027 | CGPA: 9.2/10 |
-| HSC — Computer Science | Mount Giris Matriculation Higher Secondary School, Karur | May 2023 | 86.5% |
-
-</div>
-
-### 📚 Currently Learning
-
-```text
-🧱 Artificial Intelligence   → Advanced ML Models, Deep Learning
-🧱 Natural Language Processing → Semantic Search, Embeddings
-🧱 Cloud & DevOps            → AWS, CI/CD Pipelines
-```
-
----
-
-<div align="center">
-
-📫 Reach me at **vidhyasreemani6@gmail.com** | [LinkedIn](https://linkedin.com/in/vidhyasreem) | [GitHub](https://github.com/Vidhyasree14)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vidhyasree14&color=70a5fd&style=flat-square)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
