@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:6a11cb,100:2575fc&height=220&section=header&text=Vidhyasree&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Vidhyasree&fontSize=60&fontColor=00FFF2&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -150,7 +150,7 @@ AI-driven multi-modal system for advanced aquarium monitoring and ecosystem heal
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
 <div align="center">
 <i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i>
